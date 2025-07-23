@@ -17,8 +17,8 @@ transition: background-color 0.3s ease,color 0.3s ease;
 }
 
 #toggle-btn{
-margin-right: 74rem;
-padding: 0.4rem;
+margin-right: 1rem;
+padding: 0.4rem 1rem;
 cursor: pointer;
 }
 
